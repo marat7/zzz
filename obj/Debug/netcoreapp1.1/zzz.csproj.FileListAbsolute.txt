@@ -1,0 +1,8 @@
+/home/marat/projects/zzz/bin/Debug/netcoreapp1.1/zzz.deps.json
+/home/marat/projects/zzz/bin/Debug/netcoreapp1.1/zzz.runtimeconfig.json
+/home/marat/projects/zzz/bin/Debug/netcoreapp1.1/zzz.runtimeconfig.dev.json
+/home/marat/projects/zzz/bin/Debug/netcoreapp1.1/zzz.dll
+/home/marat/projects/zzz/bin/Debug/netcoreapp1.1/zzz.pdb
+/home/marat/projects/zzz/obj/Debug/netcoreapp1.1/zzz.AssemblyInfo.cs
+/home/marat/projects/zzz/obj/Debug/netcoreapp1.1/zzz.dll
+/home/marat/projects/zzz/obj/Debug/netcoreapp1.1/zzz.pdb
